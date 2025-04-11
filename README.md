@@ -1,12 +1,7 @@
-# React + Vite
+# Open Days Front-end (React.js + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Video Demo:
+ [Demo](https://www.loom.com/share/20e9505e8b0a49588dfb90620c798775?sid=80503f7c-5b7a-4972-87be-4ed662e2d3dd)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+ This small project has a search and a sort feature. To keep consistent with other Cardiff University webistes, it is colored by red and has some fonts that are similar with theirs. 
+ There are still a lot of parts that could be optimized, so welcom any suggestions and I am ready to study further!
